@@ -1,5 +1,6 @@
 # Description
 A hello world Spring Boot application built on top of the following:
+1. Spring MVC
 1. Spring Data Rest
 1. Spring Data JPA
 1. H2
